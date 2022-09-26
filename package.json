@@ -1,0 +1,27 @@
+{
+  "name": "goit-nodejs-hw-01",
+  "version": "1.0.0",
+  "description": "goit-nodejs-hw-01",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelTekkk/goit-nodejs-hw-01.git"
+  },
+  "author": "YOUR_NAME <YOUR_EMAIL>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelTekkk/goit-nodejs-hw-01/issues"
+  },
+  "homepage": "https://github.com/AngelTekkk/goit-nodejs-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
